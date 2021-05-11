@@ -5,7 +5,7 @@
     </div>
     <side-bar-list :sideBarItems="sideBarItems" />
     <div class="settings">
-      <div class="flex align-center item-preview">
+      <div class="flex align-center item-preview setting">
         <div class="title">
           <p>הגדרות</p>
         </div>
@@ -13,7 +13,7 @@
           <i class="fas fa-cog"></i>
         </div>
       </div>
-      <div class="flex align-center item-preview">
+      <div class="flex align-center item-preview setting">
         <div class="title">
           <p>עזרה</p>
         </div>
@@ -41,4 +41,4 @@ export default {
 </script>
 
 <style>
-</style>
+</style>x

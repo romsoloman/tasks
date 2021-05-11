@@ -2,7 +2,7 @@
     grid-column: 2/2;
     margin: 40px 40px 40px 0;
     background-color: $clr6;
-    height: 90vh;
+    height: 100vh;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;  
     .logo{
@@ -16,5 +16,8 @@
     }
     .settings{
         flex: 2;
+        .setting{
+            height: 35%;
+        }
     }
 }
