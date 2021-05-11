@@ -1,0 +1,37 @@
+[
+    {
+        "title": "דאשבורד",
+        "icon": "fas fa-columns",
+        "isActive": false
+    },
+    {
+        "title": "פרוייקטים",
+        "icon": "fas fa-project-diagram",
+        "isActive": false
+    },
+    {
+        "title": "משימות",
+        "icon": "fas fa-tasks",
+        "isActive": false
+    },
+    {
+        "title": "לוח זמנים",
+        "icon": "far fa-calendar-alt",
+        "isActive": true
+    },
+    {
+        "title": "ניהול זמן",
+        "icon": "far fa-clock",
+        "isActive": false
+    },
+    {
+        "title": "קבוצות",
+        "icon": "fas fa-users",
+        "isActive": false
+    },
+    {
+        "title": "דיווחים",
+        "icon": "fas fa-chart-pie",
+        "isActive": false
+    }
+]

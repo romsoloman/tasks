@@ -1,0 +1,40 @@
+.app-header{
+    grid-row: 1/1;
+    background-color: $clr6;
+    border-radius: 20px;
+    .preferences{
+        margin-left: 24px;
+        i{
+            cursor: pointer;
+        }
+        .profile-img{
+            img{
+                margin-top: 7px;
+                margin-right: 8px;
+                border-radius: 50%;
+                width: 30px;
+                height: 30px;
+                object-fit: cover;
+                cursor: pointer;
+            }
+        }
+        .dark-mode{
+            cursor: pointer;
+            border-radius: 50%;
+            border: 1px solid $clr3;
+            width: 30px;
+            height: 30px;
+            margin-left: 8px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 13px;
+            transition: all .5s ease-in;
+        }
+        .dark-mode:hover{
+            background-color: $clr1;
+            color: white;
+        }
+        
+    }
+}

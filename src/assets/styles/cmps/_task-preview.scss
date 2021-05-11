@@ -1,0 +1,13 @@
+.task-preview{
+    border-radius: 2px;
+    margin: 5px 5px;
+    margin-bottom: 7px;
+    padding-right: 5px;
+    .task-hour{
+        justify-content: flex-end;
+        p{margin-left: 5px;}
+    }
+    .task-title{
+        font-weight: 600;
+    }
+}

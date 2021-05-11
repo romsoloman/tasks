@@ -1,0 +1,20 @@
+.item-preview{
+    height: 50px;
+    justify-content: flex-end;
+    cursor: pointer;
+    .icon {
+        margin: 0 29px;
+        font-size: 18px;
+        color: $clr3;
+    }
+    .title{
+        font-weight: 500;
+        font-size: 18px;
+    }
+}
+
+.is-active,.item-preview:hover{
+    background: linear-gradient(90deg,#FFF4EE 21.54%, rgba(255, 244, 238, 0) 66.35%);
+    border-left: 3px solid #FD7B38;
+}
+

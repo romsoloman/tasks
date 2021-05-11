@@ -1,0 +1,20 @@
+.app-filter{
+    display: flex;
+    justify-content: flex-end;
+    background-color: #F7F6F4;    
+    border-radius: 30px;
+    margin-right: 24px;
+    .search-input{
+        .search-icon{
+            margin-left: 10px;
+        }
+        input{
+            text-align: right;
+            background-color: #F7F6F4;   
+            height: 25px;
+            border: none;
+            width: 100%;
+            border-radius: 30px;
+        }
+    }
+}

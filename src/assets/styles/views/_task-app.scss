@@ -1,0 +1,11 @@
+.task-app{
+    background-color: $clr2;
+    .task-preview-app{
+        grid-row: 1/1;
+        height: 90vh;
+        margin: 40px 0 40px 40px;
+        display: grid;
+        grid-template-rows: 50px 1fr;
+        gap:40px 0;
+    }
+}

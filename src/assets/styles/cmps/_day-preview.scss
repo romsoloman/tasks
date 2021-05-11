@@ -1,0 +1,21 @@
+.day-preview{
+    border-bottom: 1px solid #e5e5e5;
+    border-right: 1px solid #e5e5e5;
+    width: 14.5%;
+    height: 100%;
+    .day-name{
+        color: $clr1;
+        font-size: 16px;
+        font-weight: 600;
+    }
+    .day-number{
+        font-size: 13px;
+    }
+    .day{
+        border-right: 1px solid grey;
+    }
+}
+
+.day-preview:last-child{
+    border-right: none;
+}

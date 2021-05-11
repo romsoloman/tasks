@@ -1,0 +1,620 @@
+[
+    {
+        "_id": "605d6479c41dd0b4fab21318",
+        "memberName": "רום סולומן",
+        "role": "מפתח פרונט-אנד",
+        "imgUrl": "https://scontent.fsdv2-1.fna.fbcdn.net/v/t1.6435-9/175446147_10214885281966200_3950749891291495408_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=8_ZhZdAxFY8AX-SkHhT&_nc_ht=scontent.fsdv2-1.fna&oh=5c50e3f92c997ceda8b37d526560bbff&oe=60BE74BB",
+        "createdAt": 1620653170372,
+        "isOnline": true,
+        "tasks": [
+            {
+                "id": "6062fe82d0456926604849ab",
+                "createdAt": 1620597600,
+                "day": "שני",
+                "title": "שעת התעוררות",
+                "taskTime": "09:00",
+                "style": {
+                    "backgroundColor": "rgba(14, 165, 233, 0.1)",
+                    "borderRight": "3px solid #0EA5E9",
+                    "color": "#0369A1"
+                },
+                "isZoom": true
+            },
+            {
+                "id": "6062feaed0456922112458aa",
+                "createdAt": 1620597600,
+                "day": "שני",
+                "title": "פרוייקט-הצגה ראשונית",
+                "taskTime": "11:00",
+                "style": {
+                    "backgroundColor": "rgba(139, 92, 246, 0.1)",
+                    "borderRight": "3px solid #8B5CF6",
+                    "color": "#6D28D9"
+                },
+                "isZoom": true
+            },
+            {
+                "id": "6681ceaed0456926601239ad",
+                "createdAt": 1620684000,
+                "day": "שלישי",
+                "title": "וובינר-עיצוב ויזואלי",
+                "taskTime": "09:00",
+                "style": {
+                    "backgroundColor": "rgba(16, 185, 129, 0.1)",
+                    "borderRight": "3px solid #10B981",
+                    "color": "#047857"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "6162feaed0456922101239ac",
+                "createdAt": 1620684000,
+                "day": "שלישי",
+                "title": "פגישה עם סטיב",
+                "taskTime": "11:00",
+                "style": {
+                    "backgroundColor": "rgba(245, 158, 11, 0.1)",
+                    "borderRight": "3px solid #F59E0B",
+                    "color": "#B45309"
+                },
+                "isZoom": true
+            },
+            {
+                "id": "6681ceaed0456926610121ac",
+                "createdAt": 1620684000,
+                "day": "רביעי",
+                "title": "עדכון תוכן",
+                "taskTime": "11:00",
+                "style": {
+                    "backgroundColor": "rgba(16, 185, 129, 0.1)",
+                    "borderRight": "3px solid #10B981",
+                    "color": "#047857",
+                    "height": "50px"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "6231feaed0456922101239av",
+                "createdAt": 1620684000,
+                "day": "חמישי",
+                "title": "עיצוב חוויות משמתמש, תכנון קומפוננטות",
+                "taskTime": "10:00",
+                "style": {
+                    "backgroundColor": "rgba(245, 158, 11, 0.1)",
+                    "borderRight": "3px solid #F59E0B",
+                    "color": "#B45309",
+                    "height": "65px"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "6665sfaed0456926610121ac",
+                "createdAt": 1620684000,
+                "day": "חמישי",
+                "title": "פגישה עם מפתח ג׳וניור",
+                "taskTime": "16:00",
+                "style": {
+                    "backgroundColor": "rgba(16, 185, 129, 0.1)",
+                    "borderRight": "3px solid #10B981",
+                    "color": "#047857",
+                    "height": "45px"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "6112feaed0456922101239ac",
+                "createdAt": 1620684000,
+                "title": "פגישת צוות",
+                "day": "שישי",
+                "taskTime": "18:00",
+                "style": {
+                    "backgroundColor": "#FFE4E6",
+                    "borderRight": "3px solid #F43F5E",
+                    "color": "#BE123C",
+                    "marginTop": "57px"
+                },
+                "isZoom": false
+            }
+        ]
+    },
+    {
+        "_id": "605d6429c41dd0b4fab21115",
+        "memberName": "עודד רון",
+        "role": "מפתח פול-סטאק",
+        "imgUrl": "https://scontent.fsdv2-1.fna.fbcdn.net/v/t1.6435-9/89507226_3087988447887208_7227131569079582720_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=il4B5vSQj94AX8Yx0eb&_nc_ht=scontent.fsdv2-1.fna&oh=b01ebaec6e47821774a21668c204e676&oe=60BD310F",
+        "createdAt": 1620653110372,
+        "isOnline": false,
+        "tasks": [
+            {
+                "id": "6062fe82d045872614849ab",
+                "createdAt": 1620597600,
+                "day": "שני",
+                "title": "שעת התעוררות",
+                "taskTime": "09:00",
+                "style": {
+                    "backgroundColor": "rgba(14, 165, 233, 0.1)",
+                    "borderRight": "3px solid #0EA5E9",
+                    "color": "#0369A1"
+                },
+                "isZoom": true
+            },
+            {
+                "id": "6062fasdd0456922112458aa",
+                "createdAt": 1620597600,
+                "day": "שני",
+                "title": "ברוך-הבא, עובד חדש!",
+                "taskTime": "11:00",
+                "style": {
+                    "backgroundColor": "rgba(139, 92, 246, 0.1)",
+                    "borderRight": "3px solid #8B5CF6",
+                    "color": "#6D28D9"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "dasjkldasj9i129asjl12",
+                "createdAt": 1620597600,
+                "day": "שלישי",
+                "title": "פגישה עם לקוח",
+                "taskTime": "11:00",
+                "style": {
+                    "backgroundColor": "rgba(14, 165, 233, 0.1)",
+                    "borderRight": "3px solid #0EA5E9",
+                    "color": "#0369A1"
+                },
+                "isZoom": true
+            },
+            {
+                "id": "sjklasdjd1283102hjjhas",
+                "createdAt": 1620597600,
+                "day": "שלישי",
+                "title": "הצגת הלקוח החדש לעובדים",
+                "taskTime": "11:00",
+                "style": {
+                    "marginTop": "15px",
+                    "backgroundColor": "rgba(139, 92, 246, 0.1)",
+                    "borderRight": "3px solid #8B5CF6",
+                    "color": "#6D28D9"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "sdjlkasdja81819shdka",
+                "createdAt": 1620597600,
+                "day": "רביעי",
+                "title": "בדיקת התקדמות אסטרטגיית פרסום",
+                "taskTime": "11:00",
+                "style": {
+                    "backgroundColor": "rgba(139, 92, 246, 0.1)",
+                    "borderRight": "3px solid #8B5CF6",
+                    "color": "#6D28D9"
+                },
+                "isZoom": true
+            },
+            {
+                "id": "daskdlj901293092jdas",
+                "createdAt": 1620684000,
+                "day": "חמישי",
+                "title": "פגישה עם לקוח",
+                "taskTime": "10:00",
+                "style": {
+                    "height": "35px",
+                    "backgroundColor": "rgba(245, 158, 11, 0.1)",
+                    "borderRight": "3px solid #F59E0B",
+                    "color": "#B45309"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "djaklsda912309jsadj",
+                "createdAt": 1620597600,
+                "day": "חמישי",
+                "title": "תכנון אסטרטגייה",
+                "taskTime": "14:00",
+                "style": {
+                    "backgroundColor": "rgba(14, 165, 233, 0.1)",
+                    "borderRight": "3px solid #0EA5E9",
+                    "color": "#0369A1"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "jkldas98128012jsas",
+                "createdAt": 1620684000,
+                "title": "פגישת צוות",
+                "day": "שישי",
+                "taskTime": "18:00",
+                "style": {
+                    "backgroundColor": "#FFE4E6",
+                    "borderRight": "3px solid #F43F5E",
+                    "color": "#BE123C"
+                },
+                "isZoom": false
+            }
+        ]
+    },
+    {
+        "_id": "6062f0e1b827d3e5eebb366d",
+        "memberName": "דוד לוי",
+        "role": "מעצב חווית משתמש",
+        "imgUrl": "https://randomuser.me/api/portraits/men/15.jpg",
+        "createdAt": 1620651170372,
+        "isOnline": false,
+        "tasks": [
+            {
+                "id": "9192fe82d0456926604849ab",
+                "createdAt": 1620597600,
+                "day": "שני",
+                "title": "שעת התעוררות",
+                "taskTime": "09:00",
+                "style": {
+                    "backgroundColor": "rgba(14, 165, 233, 0.1)",
+                    "borderRight": "3px solid #0EA5E9",
+                    "color": "#0369A1"
+                },
+                "isZoom": true
+            },
+            {
+                "id": "jdklasd989012dsajlk",
+                "createdAt": 1620684000,
+                "day": "שני",
+                "title": " מעבר על הקוד",
+                "taskTime": "12:00",
+                "style": {
+                    "backgroundColor": "rgba(245, 158, 11, 0.1)",
+                    "borderRight": "3px solid #F59E0B",
+                    "color": "#B45309",
+                    "height": "50px"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "898310jkldas9812ja",
+                "createdAt": 1620597600,
+                "day": "שלישי",
+                "title": " פגישה עם מפתחים",
+                "taskTime": "09:00",
+                "style": {
+                    "backgroundColor": "rgba(14, 165, 233, 0.1)",
+                    "borderRight": "3px solid #0EA5E9",
+                    "color": "#0369A1"
+                },
+                "isZoom": true
+            },
+            {
+                "id": "dasjkl98123809jkdas",
+                "createdAt": 1620684000,
+                "day": "שלישי",
+                "title": "לכתוב קוד",
+                "taskTime": "14:00",
+                "style": {
+                    "backgroundColor": "rgba(245, 158, 11, 0.1)",
+                    "borderRight": "3px solid #F59E0B",
+                    "color": "#B45309"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "890242jkdsajkcxzn81212kx",
+                "createdAt": 1620684000,
+                "day": "רביעי",
+                "title": "הדרכת מתכנת בקאנד צעיר",
+                "taskTime": "09:00",
+                "style": {
+                    "backgroundColor": "rgba(16, 185, 129, 0.1)",
+                    "borderRight": "3px solid #10B981",
+                    "color": "#047857"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "daksld9812masd9012",
+                "createdAt": 1620684000,
+                "day": "רביעי",
+                "title": "לכתוב קוד",
+                "taskTime": "12:00",
+                "style": {
+                    "backgroundColor": "rgba(245, 158, 11, 0.1)",
+                    "borderRight": "3px solid #F59E0B",
+                    "color": "#B45309"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "asdkjl98012kjads",
+                "createdAt": 1620684000,
+                "day": "חמישי",
+                "title": "אישור  AWS",
+                "taskTime": "14:00",
+                "style": {
+                    "backgroundColor": "rgba(16, 185, 129, 0.1)",
+                    "borderRight": "3px solid #10B981",
+                    "color": "#047857",
+                    "height": "50px"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "dasklm912309jklads",
+                "createdAt": 1620684000,
+                "day": "שישי",
+                "title": "אישור  AWS",
+                "taskTime": "10:00",
+                "style": {
+                    "backgroundColor": "rgba(16, 185, 129, 0.1)",
+                    "borderRight": "3px solid #10B981",
+                    "color": "#047857",
+                    "height": "50px"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "daskl12901jdasl",
+                "createdAt": 1620684000,
+                "title": "פגישת צוות",
+                "day": "שישי",
+                "taskTime": "18:00",
+                "style": {
+                    "backgroundColor": "#FFE4E6",
+                    "borderRight": "3px solid #F43F5E",
+                    "color": "#BE123C"
+                },
+                "isZoom": false
+            }
+        ]
+    },
+    {
+        "_id": "6062f69fb827d3e5eebb366f",
+        "memberName": "נעה בן דיין",
+        "role": "מנהלת כוח אדם",
+        "imgUrl": "https://randomuser.me/api/portraits/women/49.jpg",
+        "createdAt": 1620652130312,
+        "isOnline": true,
+        "tasks": [
+            {
+                "id": "6062fe15d0456926604849ab",
+                "createdAt": 1620597600,
+                "day": "שני",
+                "title": "שעת התעוררות",
+                "taskTime": "09:00",
+                "style": {
+                    "backgroundColor": "rgba(14, 165, 233, 0.1)",
+                    "borderRight": "3px solid #0EA5E9",
+                    "color": "#0369A1"
+                },
+                "isZoom": true
+            },
+            {
+                "id": "dasjkl91239jas9123",
+                "createdAt": 1620684000,
+                "day": "שני",
+                "title": "עדכון כספי",
+                "taskTime": "10:00",
+                "style": {
+                    "backgroundColor": "rgba(245, 158, 11, 0.1)",
+                    "borderRight": "3px solid #F59E0B",
+                    "color": "#B45309"
+                },
+                "isZoom": true
+            },
+            {
+                "id": "8912hjkdas89312js",
+                "createdAt": 1620684000,
+                "day": "שלישי",
+                "title": " :) פגישה- שתייה ואוכל",
+                "taskTime": "12:00",
+                "style": {
+                    "marginTop": "57px",
+                    "backgroundColor": "rgba(16, 185, 129, 0.1)",
+                    "borderRight": "3px solid #10B981",
+                    "color": "#047857"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "sjkl9123dajs9012sa",
+                "createdAt": 1620684000,
+                "day": "חמישי",
+                "title": "עדכון כספי",
+                "taskTime": "09:00",
+                "style": {
+                    "backgroundColor": "rgba(245, 158, 11, 0.1)",
+                    "borderRight": "3px solid #F59E0B",
+                    "color": "#B45309"
+                },
+                "isZoom": true
+            },
+            {
+                "id": "daslkj90123jklsa0981",
+                "createdAt": 1620684000,
+                "day": "שישי",
+                "title": " :) פגישה- שתייה ואוכל",
+                "taskTime": "12:00",
+                "style": {
+                    "backgroundColor": "rgba(16, 185, 129, 0.1)",
+                    "borderRight": "3px solid #10B981",
+                    "color": "#047857"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "daskl92109jkdas",
+                "createdAt": 1620684000,
+                "title": "פגישת צוות",
+                "day": "שישי",
+                "taskTime": "18:00",
+                "style": {
+                    "backgroundColor": "#FFE4E6",
+                    "borderRight": "3px solid #F43F5E",
+                    "color": "#BE123C"
+                },
+                "isZoom": false
+            }
+        ]
+    },
+    {
+        "_id": "6061c8145f838104cb0167bb",
+        "memberName": "שמעון אברמוב",
+        "role": "מנכ״ל",
+        "imgUrl": "https://randomuser.me/api/portraits/men/98.jpg",
+        "createdAt": 1620653150211,
+        "isOnline": false,
+        "tasks": [
+            {
+                "id": "312908jkads90123jk",
+                "createdAt": 1620684000,
+                "day": "שני",
+                "title": "פגישה עם לקוח",
+                "taskTime": "10:00",
+                "style": {
+                    "backgroundColor": "rgba(245, 158, 11, 0.1)",
+                    "borderRight": "3px solid #F59E0B",
+                    "color": "#B45309"
+                },
+                "isZoom": true
+            },
+            {
+                "id": "1238fe82d0456926604849ab",
+                "createdAt": 1620597600,
+                "day": "שני",
+                "title": "מעבר על העיצוב",
+                "taskTime": "13:00",
+                "style": {
+                    "backgroundColor": "rgba(14, 165, 233, 0.1)",
+                    "borderRight": "3px solid #0EA5E9",
+                    "color": "#0369A1",
+                    "height": "55px"
+                },
+                "isZoom": true
+            },
+            {
+                "id": "jdlksa98132jklas90123",
+                "createdAt": 1620597600,
+                "day": "שלישי",
+                "title": "בדיקת אקמה-מעבר על העיצוב ",
+                "taskTime": "09:00",
+                "style": {
+                    "backgroundColor": "rgba(14, 165, 233, 0.1)",
+                    "borderRight": "3px solid #0EA5E9",
+                    "color": "#0369A1",
+                    "height": "25px",
+                    "fontSize": "7px",
+                    "marginBottom": "3px"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "921hjkdas9212jaasn",
+                "createdAt": 1620684000,
+                "day": "שלישי",
+                "title": "פגישה עם אנטון",
+                "taskTime": "11:00",
+                "style": {
+                    "marginTop": "0",
+                    "marginBottom": "3px",
+                    "backgroundColor": "rgba(245, 158, 11, 0.1)",
+                    "borderRight": "3px solid #F59E0B",
+                    "color": "#B45309",
+                    "height": "25px",
+                    "fontSize": "7px"
+                },
+                "isZoom": true
+            },
+            {
+                "id": "321890dasdjk981jks",
+                "createdAt": 1620684000,
+                "title": "פגישה עם צוות העיצוב",
+                "day": "שלישי",
+                "taskTime": "16:00",
+                "style": {
+                    "marginTop": "0",
+                    "marginBottom": "3px",
+                    "backgroundColor": "#FFE4E6",
+                    "borderRight": "3px solid #F43F5E",
+                    "color": "#BE123C",
+                    "height": "25px",
+                    "fontSize": "7px"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "21ijkas921njknasd9821",
+                "createdAt": 1620597600,
+                "day": "רביעי",
+                "title": "וובינר-חיפוש,UX",
+                "taskTime": "10:00",
+                "style": {
+                    "backgroundColor": "rgba(16, 185, 129, 0.1)",
+                    "borderRight": "3px solid #10B981",
+                    "color": "#047857"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "1239890jkdlas90njsa1",
+                "createdAt": 1620597600,
+                "day": "רביעי",
+                "title": "וובינר-חיפוש תבניות בתוכנת פיגמה",
+                "taskTime": "13:00",
+                "style": {
+                    "backgroundColor": "rgba(16, 185, 129, 0.1)",
+                    "borderRight": "3px solid #10B981",
+                    "color": "#047857"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "12390jkldas9123ljksa9jkl",
+                "createdAt": 1620684000,
+                "day": "חמישי",
+                "title": "ראיון",
+                "taskTime": "12:00",
+                "style": {
+                    "backgroundColor": "rgba(245, 158, 11, 0.1)",
+                    "borderRight": "3px solid #F59E0B",
+                    "color": "#B45309"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "213uoudkjaskd9123",
+                "createdAt": 1620597600,
+                "day": "חמישי",
+                "title": "ראיון אנליסט",
+                "taskTime": "16:00",
+                "style": {
+                    "backgroundColor": "rgba(16, 185, 129, 0.1)",
+                    "borderRight": "3px solid #10B981",
+                    "color": "#047857"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "31289ashjkj12789ja",
+                "createdAt": 1620597600,
+                "day": "שישי",
+                "title": "בוחן על מסכים חדשים",
+                "taskTime": "09:00",
+                "style": {
+                    "backgroundColor": "rgba(14, 165, 233, 0.1)",
+                    "borderRight": "3px solid #0EA5E9",
+                    "color": "#0369A1"
+                },
+                "isZoom": false
+            },
+            {
+                "id": "098231lkjdas90213",
+                "createdAt": 1620684000,
+                "title": "פגישת צוות",
+                "day": "שישי",
+                "taskTime": "18:00",
+                "style": {
+                    "backgroundColor": "#FFE4E6",
+                    "borderRight": "3px solid #F43F5E",
+                    "color": "#BE123C"
+                },
+                "isZoom": false
+            }
+        ]
+    }
+]
