@@ -6,7 +6,12 @@
     margin-right: 24px;
     .search-input{
         .search-icon{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 0.875rem;
             margin-left: 10px;
+            margin-right: 5px;
         }
         input{
             text-align: right;

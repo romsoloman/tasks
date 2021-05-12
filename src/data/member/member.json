@@ -69,7 +69,7 @@
                     "backgroundColor": "rgba(16, 185, 129, 0.1)",
                     "borderRight": "3px solid #10B981",
                     "color": "#047857",
-                    "height": "50px"
+                    "height": "3.125rem"
                 },
                 "isZoom": false
             },
@@ -83,7 +83,7 @@
                     "backgroundColor": "rgba(245, 158, 11, 0.1)",
                     "borderRight": "3px solid #F59E0B",
                     "color": "#B45309",
-                    "height": "65px"
+                    "height": "4.0625rem"
                 },
                 "isZoom": false
             },
@@ -97,7 +97,7 @@
                     "backgroundColor": "rgba(16, 185, 129, 0.1)",
                     "borderRight": "3px solid #10B981",
                     "color": "#047857",
-                    "height": "45px"
+                    "height": "2.8125rem"
                 },
                 "isZoom": false
             },
@@ -198,7 +198,7 @@
                 "title": "פגישה עם לקוח",
                 "taskTime": "10:00",
                 "style": {
-                    "height": "35px",
+                    "height": "2.1875rem",
                     "backgroundColor": "rgba(245, 158, 11, 0.1)",
                     "borderRight": "3px solid #F59E0B",
                     "color": "#B45309"
@@ -264,7 +264,7 @@
                     "backgroundColor": "rgba(245, 158, 11, 0.1)",
                     "borderRight": "3px solid #F59E0B",
                     "color": "#B45309",
-                    "height": "50px"
+                    "height": "3.125rem"
                 },
                 "isZoom": false
             },
@@ -330,7 +330,7 @@
                     "backgroundColor": "rgba(16, 185, 129, 0.1)",
                     "borderRight": "3px solid #10B981",
                     "color": "#047857",
-                    "height": "50px"
+                    "height": "3.125rem"
                 },
                 "isZoom": false
             },
@@ -344,7 +344,7 @@
                     "backgroundColor": "rgba(16, 185, 129, 0.1)",
                     "borderRight": "3px solid #10B981",
                     "color": "#047857",
-                    "height": "50px"
+                    "height": "3.125rem"
                 },
                 "isZoom": false
             },
@@ -483,7 +483,7 @@
                     "backgroundColor": "rgba(14, 165, 233, 0.1)",
                     "borderRight": "3px solid #0EA5E9",
                     "color": "#0369A1",
-                    "height": "55px"
+                    "height": "3.4375rem"
                 },
                 "isZoom": true
             },
@@ -497,7 +497,7 @@
                     "backgroundColor": "rgba(14, 165, 233, 0.1)",
                     "borderRight": "3px solid #0EA5E9",
                     "color": "#0369A1",
-                    "height": "25px",
+                    "height": "1.5625rem",
                     "fontSize": "7px",
                     "marginBottom": "3px"
                 },
@@ -515,7 +515,7 @@
                     "backgroundColor": "rgba(245, 158, 11, 0.1)",
                     "borderRight": "3px solid #F59E0B",
                     "color": "#B45309",
-                    "height": "25px",
+                    "height": "1.5625rem",
                     "fontSize": "7px"
                 },
                 "isZoom": true
@@ -532,7 +532,7 @@
                     "backgroundColor": "#FFE4E6",
                     "borderRight": "3px solid #F43F5E",
                     "color": "#BE123C",
-                    "height": "25px",
+                    "height": "1.5625rem",
                     "fontSize": "7px"
                 },
                 "isZoom": false
